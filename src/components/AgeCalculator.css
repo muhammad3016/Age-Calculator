@@ -1,0 +1,25 @@
+
+.input {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.main_heading {
+    color: red;
+}
+
+.sec_heading {
+    color: red;
+}
+
+.year {
+    color: #990012;
+}
+.month {
+    color: #990012;
+}
+.days {
+    color: #990012;
+}
